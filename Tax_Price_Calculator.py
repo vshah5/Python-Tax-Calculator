@@ -1,4 +1,4 @@
-#Filename: lab10a_tax.py
+#Filename: Tax_Price_Calculator.py
 #Author: Valay Shah
 #Date Created: April 4, 2012
 #Description: This program asks for a price, calculates the price with tax
@@ -6,7 +6,7 @@
 
 #Output: Header Information
 
-print ("Filename: lab10a_tax.py")
+print ("Filename: Tax_Price_Calculator.py")
 print ("Author: Valay Shah")
 print ("Date Created: April 4, 2012")
 print ("""Description: This program asks for a price, calculates the price with tax
